@@ -1,3 +1,4 @@
+![Banner](https://www.codedex.io/images/css/banner-v2.png)
 # Juan Sebastian Stenta
   > Hello there 👋
 
