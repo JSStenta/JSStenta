@@ -1,4 +1,9 @@
-![Banner](https://www.codedex.io/images/css/banner-v2.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.codedex.io/images/css/banner-v2.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.codedex.io/images/css/banner.png">
+  <img alt="Banner" src="https://www.codedex.io/images/css/banner.png">
+</picture>
+
 # Juan Sebastian Stenta
   > Hello there 👋
 
